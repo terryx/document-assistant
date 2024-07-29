@@ -94,3 +94,4 @@ venv/
 ENV/
 env/
 .venv​⬤
+.DS_Store
